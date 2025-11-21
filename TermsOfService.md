@@ -20,7 +20,7 @@
 ### 第二條：授權使用與知識產權
 
 1. **有限授權：** 我們特此授予您個人的、有限的、非排他性、不可轉讓的、可撤銷的授權，僅限於在您擁有或控制的 iOS 設備上，且僅供您個人、非商業目的使用本應用程式。
-2. **知識產權：** 本應用程式中的所有內容（包括但不限於遊戲代碼、圖形、視覺效果、音訊、商標）均屬於 **LadyRK (**CHIH WEI CHANG) 或其授權人所有，並受版權法和知識產權法保護。您不得複製、修改或分發任何內容。
+2. **知識產權：** 本應用程式中的所有元素（包括但不限於遊戲代碼、圖形、視覺效果、音訊、商標，以及通過人工智慧生成或輔助生成的內容）均屬於 **LadyRK (CHIH WEI CHANG)** 或其授權人所有，並受版權法和知識產權法保護。在法律允許的範圍內，我們保留對這些內容的所有權利和利益。您不得複製、修改或分發任何內容。
 
 ### 第三條：使用者自製內容（UGC）
 
@@ -61,7 +61,7 @@
 
 如果您對本使用者條款有任何疑問，請透過以下方式與我們聯繫：
 
-- **開發者名稱：** **LadyRK (**CHIH WEI CHANG)
+- **開發者名稱：** LadyRK (CHIH WEI CHANG)
 - **電子郵件地址：**  ladyrk.kcrk@gmail.com
 
 
@@ -88,7 +88,7 @@ Publication date: November 12, 2025
 ### Section 2: License and Intellectual Property
 
 1. **Limited License:** We grant you a personal, limited, non-exclusive, non-transferable, revocable license to use the App solely on an iOS device that you own or control, and solely for your personal, non-commercial purposes.
-2. **Intellectual Property:** All content within the App (including, but not limited to, code, graphics, visuals, audio, and trademarks) is the property of CHIH WEI CHANG or its licensors and is protected by copyright and intellectual property laws. You may not copy, modify, or distribute any content.
+2. **Intellectual Property:** All elements within the App (including, but not limited to, code, graphics, visuals, audio, trademarks, and content generated or assisted by Artificial Intelligence) are the property of **LadyRK (CHIH WEI CHANG)** or its licensors and are protected by copyright and intellectual property laws. To the fullest extent permitted by law, we reserve all rights and interest in such content. You may not copy, modify, or distribute any content.
 
 ### Section 3: User-Generated Content (UGC)
 
@@ -129,7 +129,7 @@ Publication date: November 12, 2025
 
 If you have any questions regarding these Terms of Service, please contact us at:
 
-- **Developer Name: LadyRK (**CHIH WEI CHANG)
+- **Developer Name:** LadyRK (CHIH WEI CHANG)
 - **Email Address:**  ladyrk.kcrk@gmail.com
 
 &nbsp;
